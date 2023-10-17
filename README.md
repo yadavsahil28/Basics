@@ -1,6 +1,5 @@
 # Basics
-
-This repositorie includes the basics programming questions to get started with programming. 
+This repository includes the basics programming questions to get started with programming. 
 
 1) Prime Number
 2) Fibonacci Series
